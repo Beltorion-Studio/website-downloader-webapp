@@ -35,3 +35,5 @@
 {"level":"info","message":"File downloaded: G:\\JavascriptProjects\\Website-downloader-WebApp\\public\\download/937371b0-9ab8-4571-bdfd-af18cf4b9346/business-site-bb9671.webflow.io.zip","timestamp":"2023-05-17T15:11:22.514Z"}
 {"level":"info","message":"Server running in development mode on port http://localhost:5000","timestamp":"2023-05-17T15:33:02.795Z"}
 {"level":"info","message":"Server running in development mode on port http://localhost:5000","timestamp":"2023-05-17T15:33:55.765Z"}
+{"level":"info","message":"Server running in production mode on port http://localhost:5000","timestamp":"2023-06-12T12:36:04.340Z"}
+{"level":"info","message":"Server running in production mode on port http://localhost:5000","timestamp":"2023-06-12T12:37:02.846Z"}

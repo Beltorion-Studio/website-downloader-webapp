@@ -1,5 +1,5 @@
-//const API_URL = 'http://localhost:5000';
-const API_URL = 'https://website-downloader-387015.el.r.appspot.com/';
+const API_URL = 'http://localhost:5000';
+
 
 const submitButton = document.querySelector('#submitBtn');
 const message = document.querySelector('#message');
