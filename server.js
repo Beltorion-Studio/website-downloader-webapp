@@ -29,7 +29,7 @@ app.use(express.static(publicDirectory));
 
 import index from './routes/getWebsite.js';
 import download from './routes/download.js';
-import progress from './routes/getProgress.js';
+import progress from './Dev/getProgress.js';
 
 app.use('/getWebsite', index);
 app.use('/download', download);
